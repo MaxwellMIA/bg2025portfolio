@@ -1,0 +1,57 @@
+/* Tags */
+
+body {
+    background-color: #edf5e1;
+    color: #05386b
+}
+
+footer {
+    background-color: #05386b;
+    color: #fff
+}
+
+/* Class */
+
+.btn-custom {
+    background-color: #5cdb95;
+    color: #fff;
+    border: none;
+}
+
+.btn-custom:hover {
+    background-color: #379683
+}
+
+.header-section{
+    background: url("../img/img 2/header.jpg") no-repeat center center/cover;
+    background-position: bottom; 
+    color: #fff;
+    height: 600px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* Photo by <a href="https://unsplash.com/@cbarbalis?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Chris Barbalis</a> on <a href="https://unsplash.com/photos/silver-imac-with-keyboard-and-mouse-n2M2SBQE6Iw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> */
+}
+
+.navbar {
+    background-color: #05386b;
+}
+
+.nav-link, .navbar-brand, .navbar-toggler {
+    color: #edf5e1 !important;
+}
+
+.table-custom {
+    background-color: #fff;
+    border: 1px solid #05386b
+}
+
+.thumbnail-img {
+    border-radius: 15px
+}
+
+/* ID */
+
+/* Top Right Bottom Left */
