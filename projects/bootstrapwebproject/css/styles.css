@@ -4,13 +4,11 @@
 
 .navbar {
     position: sticky;
-    top: 0%;
+    top: 0;
     background-color: rgb(156, 95, 212);
 }
 
 .navbar a{
-    float: left;
-    text-align: center;
     padding: 14px;
     text-decoration: none;
 }
