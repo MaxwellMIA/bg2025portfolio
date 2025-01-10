@@ -1,11 +1,65 @@
 /* Tags */
 
+body{
+    background-color: #81C997;
+}
+
 /* Class */
+.a1{
+    background-color: #FF5D6D;
+    color: #d23d4c;
+    border-color: #EF4D5D;
+}
+
+.a2{
+    background-color: #FFB55C;
+    color: #be7e31;
+    border-color: #EFA54C;
+}
+
+.a3{
+    background-color: #F6FF5D;
+    color: #c5cd31;
+    border-color: #E6EF4D;
+}
+
+.a4{
+    background-color: #5AFF64;
+    color: #37d63f;
+    border-color: #4EEF57;
+}
+
+.a5{
+    background-color: #5D87FF;
+    color: #2c55c4;
+    border-color: #4D77EF;
+}
+
+.a6{
+    background-color: #A35CFF;
+    color: #732ece;
+    border-color: #924CEE;
+}
+
+
+.card{
+    width: 325px;
+    height: 125px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: none;
+    margin: 20px;
+    min-height: 250px;
+}
+
+.content {
+    padding: 20px 20px 20px 20px;
+}
 
 .navbar {
     position: sticky;
     top: 0;
-    background-color: rgb(156, 95, 212);
+    background-color:#97DCC9
 }
 
 .navbar a{
