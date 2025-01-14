@@ -3,7 +3,6 @@
 body{
     background-color: #81C997;
 }
-
 /* Class */
 .a1{
     background-color: #FF5D6D;
@@ -102,6 +101,21 @@ body{
     text-decoration: none;
 }
 
+.odd {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
 /* ID */
+
+#l {
+    float: left;
+}
+
+#r{
+    float: right;
+}
 
 /* TRBL */
