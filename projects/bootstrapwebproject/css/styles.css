@@ -154,10 +154,14 @@ footer{
 }
 
 .letsgo {
-    height: 350px;
+    width: 350px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.ped {
+    width: 35%;
 }
 
 /* ID */
