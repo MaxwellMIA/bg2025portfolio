@@ -1,5 +1,9 @@
 /* Tags */
 
+a{
+    color: #112A46;
+}
+
 body{
     background-color: #81C997;
 }
@@ -7,6 +11,12 @@ body{
 p{
     font-weight: bold;
 }
+
+footer{
+    padding: 10px;
+    margin: 10px;
+}
+
 /* Class */
 .a1{
     background-color: #FF5D6D;
@@ -110,6 +120,44 @@ p{
     margin-left: auto;
     margin-right: auto;
     width: 1000px;
+}
+
+/* images */
+
+.ele {
+    width: 47%;
+}
+
+.game {
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.shoplob {
+    width: 45%;
+}
+
+.machine {
+    width: 15%
+}
+
+.skill {
+    width: 55%;
+    padding: 25px;
+}
+
+.lobby {
+    width: 40%;
+    padding-left: 20px;
+}
+
+.letsgo {
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* ID */
